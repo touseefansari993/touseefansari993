@@ -24,7 +24,7 @@ Networking (OSI / TCP-IP) · AWS · VirtualBox · GNS3 · Linux · C/C++
 
 ## Languages
 
-English, Urdu
+English, Urdu, punjabi
 
 ## Contact
 
