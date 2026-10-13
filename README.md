@@ -16,7 +16,7 @@ I'm building my technical foundation in networking and cloud infrastructure befo
 
 - Cisco Networking Basics — Credly
 - Cisco Introduction to Cybersecurity — Credly
-- AWS Cloud Practitioner Essentials — in progress
+- AWS Cloud Practitioner Essentials — completed
 
 ## Technical Toolkit
 
